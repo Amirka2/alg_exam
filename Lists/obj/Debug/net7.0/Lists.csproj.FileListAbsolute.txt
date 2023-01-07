@@ -1,0 +1,15 @@
+/Users/amir/RiderProjects/alg_exam/Lists/bin/Debug/net7.0/Lists
+/Users/amir/RiderProjects/alg_exam/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/amir/RiderProjects/alg_exam/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/amir/RiderProjects/alg_exam/Lists/bin/Debug/net7.0/Lists.dll
+/Users/amir/RiderProjects/alg_exam/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.dll
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/amir/RiderProjects/alg_exam/Lists/obj/Debug/net7.0/ref/Lists.dll

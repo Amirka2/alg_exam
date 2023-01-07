@@ -1,0 +1,15 @@
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/amir/RiderProjects/alg_exam/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
