@@ -3,11 +3,11 @@ using ConsoleApp1;
 
 
 int[] arr1 = { 2, 1, 0, 7, 8, 10, -10, 3, 5};
-var s = new ShellSort(arr1, "s");
+var s = new QuickSort(arr1, "q");
 var arr = s.Sorting();
 foreach (var el in arr)
 {
-    Console.Write(el);
+    Console.Write(el + " ");
 }
 // int[] arr = { 2, 1, 0, 7, 8, 10, -10, 3, 5};
 // var rnd = new Random();

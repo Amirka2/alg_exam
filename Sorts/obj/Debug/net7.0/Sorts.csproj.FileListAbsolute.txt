@@ -1,0 +1,15 @@
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.csproj.AssemblyReference.cache
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.AssemblyInfoInputs.cache
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.AssemblyInfo.cs
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.csproj.CoreCompileInputs.cache
+/Users/amir/RiderProjects/alg_exam/Sorts/bin/Debug/net7.0/Sorts
+/Users/amir/RiderProjects/alg_exam/Sorts/bin/Debug/net7.0/Sorts.deps.json
+/Users/amir/RiderProjects/alg_exam/Sorts/bin/Debug/net7.0/Sorts.runtimeconfig.json
+/Users/amir/RiderProjects/alg_exam/Sorts/bin/Debug/net7.0/Sorts.dll
+/Users/amir/RiderProjects/alg_exam/Sorts/bin/Debug/net7.0/Sorts.pdb
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.dll
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/refint/Sorts.dll
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.pdb
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/Sorts.genruntimeconfig.cache
+/Users/amir/RiderProjects/alg_exam/Sorts/obj/Debug/net7.0/ref/Sorts.dll
