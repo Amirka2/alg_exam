@@ -2,8 +2,8 @@
 using ConsoleApp1;
 
 
-int[] arr1 = { 2, 1, 0, 7, 8, 10, -10, 3, 5};
-var s = new QuickSort(arr1, "q");
+int[] arr1 = { 2, 1, 0, 7, 8, 10, 20, 3, 5};
+var s = new RadixSort(arr1, "q");
 var arr = s.Sorting();
 foreach (var el in arr)
 {
