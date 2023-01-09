@@ -8,7 +8,10 @@ public class QuickSort : Sort
 
     public override int[] Sorting()
     {
+        time.Start();
         QuickSorting(0, _arr.Length - 1);
+        time.Stop();
+        TimeInMillis = time.ElapsedMilliseconds;
 
         return _arr;
     }

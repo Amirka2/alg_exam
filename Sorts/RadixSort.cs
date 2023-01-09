@@ -15,6 +15,7 @@ public class RadixSort : Sort
 
     private int[] RadixSorting(int range, int length) // количество доступных символов, максимальная длина элемента 
     {
+        time.Start();
         ArrayList[] list = new ArrayList[range];
         for (int i = 0; i < range; i++)
         {
@@ -45,6 +46,8 @@ public class RadixSort : Sort
             }
         }
 
+        time.Stop();
+        TimeInMillis = time.ElapsedMilliseconds;
         return _arr;
     }
 }
