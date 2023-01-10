@@ -14,11 +14,11 @@ public class ShellSort : Sort
         {
             for (int i = d; i < _arr.Length; i++)
             {
-                int j = i;
-                while ((j >= d) && (_arr[j - d] > _arr[j]))
+                int k = i;
+                while ((k >= d) && (_arr[k - d] > _arr[k]))
                 {
-                    Swap(j - d, j);
-                    j -= d;
+                    Swap(k - d, k);
+                    k -= d;
                 }
             }
 

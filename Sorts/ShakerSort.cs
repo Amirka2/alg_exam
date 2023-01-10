@@ -15,7 +15,7 @@ public class ShakerSort : Sort
         for (int i = 0; i < _arr.Length / 2; i++)
         {
             var swapFlag = false;
-            for (int j = i; j < _arr.Length - i - 1; j++)
+            for (int j = i; j < _arr.Length / 2; j++)
             {
                 if (_arr[j] > _arr[j + 1])
                 {
