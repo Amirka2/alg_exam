@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{25347DE7-0C47-4DE7-AC9C-7828ABE69283}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables\HashTables.csproj", "{BF8702C2-6BF4-4384-BFFD-D3B2C45C67BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{25347DE7-0C47-4DE7-AC9C-7828ABE69283}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25347DE7-0C47-4DE7-AC9C-7828ABE69283}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25347DE7-0C47-4DE7-AC9C-7828ABE69283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8702C2-6BF4-4384-BFFD-D3B2C45C67BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8702C2-6BF4-4384-BFFD-D3B2C45C67BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8702C2-6BF4-4384-BFFD-D3B2C45C67BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8702C2-6BF4-4384-BFFD-D3B2C45C67BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
