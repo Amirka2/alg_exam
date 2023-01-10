@@ -189,8 +189,8 @@ public class MyGraph
             {
                 s.Push(Edges[i].From);
             }
-            recSearch(s);
         }
+        recSearch(s);
     }
 
     public void Dijkstra(int verNumber)
